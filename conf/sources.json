@@ -1,0 +1,117 @@
+[{
+    "name": "CNN",
+    "url": "http://cnn.com/",
+    "feedlink": "http://rss.cnn.com/rss/cnn_topstories.rss"
+}, {
+    "name": "Huffington Post",
+    "url": "http://huffingtonpost.com/",
+    "feedlink": "http://www.huffingtonpost.com/feeds/index.xml"
+}, {
+    "name": "Fox News",
+    "url": "http://foxnews.com/",
+    "feedlink": "http://feeds.foxnews.com/foxnews/politics"
+}, {
+    "name": "The New York Times",
+    "url": "http://nytimes.com/",
+    "feedlink": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+}, {
+    "name": "ABCNews.com",
+    "url": "http://abcnews.go.com/",
+    "feedlink": "http://abcnews.go.com/xmldata/rss?id=4380645"
+}, {
+    "name": "USA TODAY",
+    "url": "http://usatoday.com/",
+    "feedlink": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories"
+}, {
+    "name": "Washington Post",
+    "url": "http://washingtonpost.com/",
+    "feedlink": "http://feeds.washingtonpost.com/rss/homepage"
+}, {
+    "name": "Los Angeles Times",
+    "url": "http://latimes.com/",
+    "feedlink": "http://www.latimes.com/rss2.0.xml"
+}, {
+    "name": "The Wall Street Journal",
+    "url": "http://wsj.com/",
+    "feedlink": "http://online.wsj.com/xml/rss/3_7085.xml"
+}, {
+    "name": "Forbes",
+    "url": "http://forbes.com/",
+    "feedlink": "http://www.forbes.com/business/feed2/"
+}, {
+    "name": "CBS News",
+    "url": "http://cbsnews.com/",
+    "feedlink": "http://feeds.cbsnews.com/CBSNewsMain"
+}, {
+    "name": "Reuters.com",
+    "url": "http://reuters.com/",
+    "feedlink": "http://feeds.reuters.com/reuters/TopNews/"
+}, {
+    "name": "NY Daily News",
+    "url": "http://nydailynews.com/",
+    "feedlink": "http://feeds.nydailynews.com/nydnrss/news"
+}, {
+    "name": "Bloomberg",
+    "url": "http://bloomberg.com/",
+    "feedlink": "http://www.bloomberg.com/feed/podcast/bloomberg-brief.xml"
+}, {
+    "name": "CNBC",
+    "url": "http://cnbc.com/",
+    "feedlink": "http://www.cnbc.com/id/100003114/device/rss/rss.html"
+}, {
+    "name": "Examiner.com",
+    "url": "http://examiner.com/",
+    "feedlink": "http://www.examiner.com/rss/all/top-news"
+}, {
+    "name": "Slate Magazine",
+    "url": "http://slate.com/",
+    "feedlink": "http://feeds.slate.com/slate"
+}, {
+    "name": "New York Post",
+    "url": "http://nypost.com/",
+    "feedlink": "http://nypost.com/news/feed/"
+}, {
+    "name": "Chicago Tribune",
+    "url": "http://chicagotribune.com/",
+    "feedlink": "http://www.chicagotribune.com/rss2.0.xml"
+}, {
+    "name": "NPR : National Public Radio",
+    "url": "http://npr.org/",
+    "feedlink": "http://www.npr.org/rss/rss.php?id=1004"
+}, {
+    "name": "SFGate",
+    "url": "http://sfgate.com/",
+    "feedlink": "http://www.sfgate.com/bayarea/feed/bay-area-news-429.php"
+}, {
+    "name": "TIME.com",
+    "url": "http://time.com/",
+    "feedlink": "http://time.com/feed/"
+}, {
+    "name": "Boston.com",
+    "url": "http://boston.com/",
+    "feedlink": "http://feeds.boston.com/boston/topstories"
+}, {
+    "name": "Businessweek",
+    "url": "http://businessweek.com/",
+    "feedlink": "http://www.businessweek.com/feeds/homepage.rss"
+}, {
+    "name": "POLITICO.com",
+    "url": "http://politico.com/",
+    "feedlink": "http://www.politico.com/rss/politicopicks.xml"
+}, {
+    "name": "The Christian Science Monitor",
+    "url": "http://csmonitor.com/",
+    "feedlink": "http://rss.csmonitor.com/feeds/csm"
+}, {
+    "name": "Breitbart",
+    "url": "http://breitbart.com/",
+    "feedlink": "http://feeds.feedburner.com/breitbart"
+}, {
+    "name": "Wired",
+    "url": "http://wired.com/",
+    "feedlink": "http://feeds.wired.com/wired/index"
+}, {
+    "name": "US News and World Report",
+    "url": "http://usnews.com/",
+    "feedlink": "http://www.usnews.com/blogrss/world-report.xml"
+}]
