@@ -2,10 +2,13 @@ import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { MongooseModule } from '@nestjs/mongoose';
 import { ScheduleModule } from '@nestjs/schedule';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
 import { TasksModule } from './tasks/tasks.module';
 import { ArticlesModule } from './articles/articles.module';
+import { TerminusModule } from '@nestjs/terminus';
+
+import { AppController } from './app.controller';
+import { HealthController } from './health/health.controller';
+import { AppService } from './app.service';
 
 @Module({
   imports: [
@@ -13,9 +16,10 @@ import { ArticlesModule } from './articles/articles.module';
     ScheduleModule.forRoot(),
     MongooseModule.forRoot('mongodb://' + process.env.DB_USER + ':' + process.env.DB_PASS + '@' + process.env.DB_HOST + ':' + process.env.DB_PORT + '/' + process.env.DB_NAME),
     TasksModule,
-    ArticlesModule
+    ArticlesModule,
+    TerminusModule
   ],
-  controllers: [AppController],
+  controllers: [AppController, HealthController],
   providers: [AppService],
 })
 export class AppModule {}
