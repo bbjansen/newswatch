@@ -1,7 +1,7 @@
 {
   "name": "newswatch",
   "version": "0.0.1",
-  "description": "Tracks editorial changes to news articles.",
+  "description": "Tracks editorial changes in news articles.",
   "author": "BB. Jansen <bobjansen@pm.me>",
   "private": true,
   "license": "AGPL-3.0-or-later",

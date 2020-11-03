@@ -12,9 +12,9 @@
 <a href="https://www.npmjs.com/~newswatch"><img src="https://img.shields.io/npm/v/@newswatch/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~newswatch"><img src="https://img.shields.io/npm/l/@newswatch/core.svg" alt="Package License" /></a>
 <a href="https://www.npmjs.com/~newswatch"><img src="https://img.shields.io/npm/dm/@newswatch/core.svg" alt="NPM Downloads" /></a>
-<a href="https://travis-ci.org/newswatch/newswatch"><img src="https://api.travis-ci.org/newswatch/newswatch.svg?branch=master" alt="Travis" /></a>
-<a href="https://travis-ci.org/newswatch/newswatch"><img src="https://img.shields.io/travis/newswatch/newswatch/master.svg?label=linux" alt="Linux" /></a>
-<a href="https://coveralls.io/github/newswatch/newswatch?branch=master"><img src="https://coveralls.io/repos/github/newswatch/newswatch/badge.svg?branch=master#5" alt="Coverage" /></a>
+<a href="https://travis-ci.org/bbjansen/newswatch"><img src="https://api.travis-ci.org/newswatch/newswatch.svg?branch=master" alt="Travis" /></a>
+<a href="https://travis-ci.org/bbjansen/newswatch"><img src="https://img.shields.io/travis/newswatch/newswatch/master.svg?label=linux" alt="Linux" /></a>
+<a href="https://coveralls.io/github/bbjansen/newswatch?branch=master"><img src="https://coveralls.io/repos/github/bbjansen/newswatch/badge.svg?branch=master#5" alt="Coverage" /></a>
 <a href="https://gitter.im/newswatch/newswatchjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge"><img src="https://badges.gitter.im/newswatch/newswatchjs.svg" alt="Gitter" /></a>
 <a href="https://opencollective.com/newswatch#backer"><img src="https://opencollective.com/newswatch/backers/badge.svg" alt="Backers on Open Collective" /></a>
 <a href="https://opencollective.com/newswatch#sponsor"><img src="https://opencollective.com/newswatch/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
